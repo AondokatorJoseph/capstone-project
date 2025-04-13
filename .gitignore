@@ -1,0 +1,4 @@
+# Ignore the entire folders
+models/
+myenv/
+datasets/

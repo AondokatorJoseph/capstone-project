@@ -1,0 +1,13 @@
+setup.py
+src/__init__.py
+src/data/__init__.py
+src/data/dataset_loader.py
+src/data/preprocessing.py
+src/models/__init__.py
+src/models/model.py
+src/utils/__init__.py
+src/utils/helpers.py
+waste_classification.egg-info/PKG-INFO
+waste_classification.egg-info/SOURCES.txt
+waste_classification.egg-info/dependency_links.txt
+waste_classification.egg-info/top_level.txt
